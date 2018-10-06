@@ -1,0 +1,16 @@
+nano
+rsa
+thrift
+requests
+gtts
+bs4
+tweepy
+pafy
+datetime
+html5lib
+PyQRCode
+humanfriendly
+googletrans
+wikipedia
+ffmpy
+youtube_dl
