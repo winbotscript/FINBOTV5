@@ -1,5 +1,5 @@
 - ই۝🄵🄸🄽 🄱🄾🅃۝ईई V5.0
-![finbotv1](finbotv1.png)
+![finbotv5.0](finbotvcoollogo_com-2019477 (1).gif)
 
 
 
